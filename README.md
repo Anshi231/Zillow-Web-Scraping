@@ -22,6 +22,9 @@ This Python-based tool is built to:
 The project utilizes the following technologies and libraries:
 
 a)- Python 3.x: For scripting and automation.
+
 b)- Scrapy: A robust framework for extracting data from websites.
+
 c)- BeautifulSoup: For HTML parsing and extracting property details.
+
 d)- Requests: For sending HTTP requests to the Zillow clone website.
