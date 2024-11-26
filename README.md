@@ -1,12 +1,12 @@
 ## Zillow-Web-Scraping
 
-This project is a web scraping and automation tool designed to scrape rental property data from a Zillow clone and automatically submit the extracted data into a JSON Format. The script is tailored to streamline the process of gathering and managing rental property information, reducing manual effort.
+This project is a web scraping script designed to scrape rental property data from Zillow and automatically submit the extracted data into a JSON Format. The script is tailored to streamline the process of gathering and managing rental property information, reducing manual effort.
 
 #### Project Overview
 This Python-based tool is built to:
 
-- Scrape rental property listings from a Zillow clone website.
-- Extract essential property details such as:
+1. Scrape rental property listings from a Zillow website.
+2. Extract essential property details such as:
   a)- Property Links: URLs to the property listing pages.
   b)- Addresses: The location of the rental properties.
   c)- Prices: The cost of renting the properties.
