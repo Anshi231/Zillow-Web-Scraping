@@ -27,4 +27,4 @@ b)- Scrapy: A robust framework for extracting data from websites.
 
 c)- BeautifulSoup: For HTML parsing and extracting property details.
 
-d)- Requests: For sending HTTP requests to the Zillow clone website.
+d)- Requests: For sending HTTP requests to the Zillow website.
