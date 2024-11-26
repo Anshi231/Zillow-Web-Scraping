@@ -7,6 +7,7 @@ This Python-based tool is built to:
 
 1. Scrape rental property listings from a Zillow website.
 2. Extract essential property details such as:
+   
   a)- Property Links: URLs to the property listing pages.
 
   b)- Addresses: The location of the rental properties.
